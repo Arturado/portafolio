@@ -128,7 +128,7 @@
                 {
                     "id": 3,
                     "label": "Angel Olivares",
-                    "link": {"href": "", "tooltipString": ""},
+                    "link": {"href": "https://www.linkedin.com/in/angel-olivares", "tooltipString": ""},
                     "img": "images/pictures/testimonial-person-female-2.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
