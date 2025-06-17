@@ -16,8 +16,7 @@
             "roles": [
                 "Backend Developer",
                 "Frontend Developer",
-                "Ecommerce Developer",
-                "UX Designer"
+                "Ecommerce Developer"
             ]
         },
         "es": {
@@ -25,8 +24,7 @@
             "roles": [
                 "Desarrollador Backend",
                 "Desarrollador Frontend",
-                "Ecommerce Developer",
-                "Diseñador UX"
+                "Ecommerce Developer"
             ]
         }
     }
