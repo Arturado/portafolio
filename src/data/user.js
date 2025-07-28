@@ -1,24 +1,22 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
-		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
+		title: "Arturo Vásquez | FullStack Developer | ReacJs - NextJs - NestJs - Php - Python - Ecommerce Dev",
+		name: "Arturo Vásquez",
+		email: "arturados@gmail.com",
 		logo: "../logo.png",
 	},
 
 	socials: {
-		twitter: "https://twitter.com/",
-		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
-		instagram: "https://instagram.com/",
-		stackoverflow: "https://stackoverflow.com/",
-		facebook: "https://facebook.com/",
+		twitter: "https://twitter.com/arturado",
+		github: "https://github.com/Arturado",
+		linkedin: "https://linkedin.com/Arturo-Vasquez",
+		instagram: "https://instagram.com/arturados",
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur astronaut.",
+		title: "Desarrollador Full-Stack especializado en soluciones ERP/CRM, integraciones API y arquitectura web",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			"Soy desarrollador full-stack con enfoque backend y experiencia en Node.js, PHP y WordPress. Desarrollo soluciones a medida como plugins ERP/CRM, cotizadores inteligentes y dashboards con métricas. Integro APIs complejas (WooCommerce, SoftRestaurant, Pedidos Ya, MercadoLibre) y trabajo con entornos Dockerizados y Git. También tengo experiencia en frontend con React, diseño responsive, consumo de APIs REST y maquetado moderno con CSS (Bulma, Tailwind). Me apasiona escribir código limpio, escalar proyectos y resolver desafíos reales con lógica y creatividad. Fan de Linux, la automatización y los sistemas bien pensados.",
 	},
 
 	about: {
